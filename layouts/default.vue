@@ -1,6 +1,6 @@
 <template>
     <div>
-        <header class="sticky top-0">
+        <header class="sticky top-0 font-mono z-50">
             <Navbar/>
         </header>
 
