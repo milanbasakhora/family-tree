@@ -15,9 +15,13 @@
 </template>
 
 <script setup>
-
+useHead('...');
+useSeoMeta({
+    title:'Family Tree',
+    ogTitle:'YOYO',
+    ogImage: '',
+})
 </script>
 
 <style scoped>
-
 </style>
