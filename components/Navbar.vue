@@ -13,10 +13,15 @@
                 </div>
 
                 <div class="text-lg flex gap-2">
-                    <button class="hover-text hover:bg-gray-500 rounded-md px-2"><i
-                            class="ri-search-2-line"></i><span class="tooltip-text">Search</span></button>
-                    <button class="hover-text hover:bg-gray-500 rounded-md px-2"><i class="ri-moon-line"></i><span class="tooltip-text">Enable dark mode</span></button>
-                    <button class="hover-text hover:bg-gray-500 rounded-md px-2"><i class="ri-github-fill"></i><span class="tooltip-text">Contribute on GitHub</span></button>
+                    <button class="hover-text hover:bg-gray-800 rounded-md px-2"><i class="ri-search-2-line"></i><span
+                            class="tooltip-text">Search</span></button>
+                    <button class="hover-text hover:bg-gray-800 rounded-md px-2"><i class="ri-moon-line"></i><span
+                            class="tooltip-text">Enable dark mode</span></button>
+                    <button class="hover-text hover:bg-gray-800 rounded-md px-2"><i class="ri-github-fill"></i><span
+                            class="tooltip-text">Contribute on GitHub</span></button>
+                    <button class="hover-text hover:bg-gray-800 rounded-md px-2">EN<i
+                            class="ri-arrow-down-s-line"></i><span class="tooltip-text">Change language to
+                            Nepali</span></button>
                 </div>
             </div>
         </div>
@@ -52,5 +57,4 @@
     background-color: #192733;
     border-radius: 8px;
 }
-
 </style>
