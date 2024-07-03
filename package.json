@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@balkangraph/familytree.js": "^1.9.36",
     "nuxt": "^3.11.2",
     "remixicon": "^4.2.0",
     "vue": "^3.4.27",

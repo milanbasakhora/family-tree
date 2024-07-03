@@ -4,7 +4,7 @@
             <Navbar/>
         </header>
 
-        <main>
+        <main class="min-h-screen">
             <slot></slot>
         </main>
 
