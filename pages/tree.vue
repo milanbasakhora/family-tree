@@ -372,6 +372,11 @@ export default {
                 mouseScrool: FamilyTree.action.ctrlZoom,
                 mode: 'dark',
                 template: 'hugo',
+                nodeMenu: {
+        edit: { text: 'Edit' },
+        details: { text: 'Details' },
+    },
+    nodeTreeMenu: true,
                 scaleInitial: FamilyTree.match.boundary,
                 scaleMax: 1.5   ,
                 toolbar: {
