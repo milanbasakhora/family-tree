@@ -36,7 +36,7 @@ export default {
                 "id": 3,
                 "name": "Antikarna",
                 "gender": "male",
-                "fid": 1,   
+                "fid": 1,
                 "mid": null,
                 "pids": [null],
                 "img": "https://cdn.balkan.app/shared/m60/1.jpg"
@@ -464,12 +464,12 @@ export default {
                 mode: 'dark',
                 template: 'hugo',
                 nodeMenu: {
-        edit: { text: 'Edit' },
-        details: { text: 'Details' },
-    },
-    nodeTreeMenu: true,
+                    edit: { text: 'Edit' },
+                    details: { text: 'Details' },
+                },
+                nodeTreeMenu: true,
                 scaleInitial: FamilyTree.match.boundary,
-                scaleMax: 1.5   ,
+                scaleMax: 1.5,
                 toolbar: {
                     fullScreen: true,
                     zoom: true,
