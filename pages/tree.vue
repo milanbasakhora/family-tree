@@ -73,7 +73,7 @@ export default {
                 "name": "Bhadriman",
                 "gender": "male",
                 "fid": 4,
-                "mid": null,
+                "mid": 6,
                 "pids": [null],
                 "img": "https://cdn.balkan.app/shared/m60/1.jpg"
             },
@@ -83,7 +83,7 @@ export default {
                 "gender": "male",
                 "description": "Maila Budha, Sidha Devi",
                 "fid": 4,
-                "mid": null,
+                "mid": 6,
                 "pids": [null],
                 "img": "https://cdn.balkan.app/shared/m60/1.jpg"
             },
@@ -92,7 +92,7 @@ export default {
                 "name": "Budhibir",
                 "gender": "male",
                 "fid": 4,
-                "mid": null,
+                "mid": 6,
                 "pids": [null],
                 "img": "https://cdn.balkan.app/shared/m60/1.jpg"
             },
@@ -381,7 +381,7 @@ export default {
                 "gender": "male",
                 "description": "Bishnu Prasad",
                 "fid": 18,
-                "mid": null,
+                "mid": 39,
                 "pids": [41],
                 "img": "https://cdn.balkan.app/shared/m60/1.jpg"
             },
@@ -400,7 +400,7 @@ export default {
                 "gender": "male",
                 "description": "Surjyopa",
                 "fid": 18,
-                "mid": null,
+                "mid": 39,
                 "pids": [43, 44],
                 "img": "https://cdn.balkan.app/shared/m60/1.jpg"
             },
@@ -428,7 +428,7 @@ export default {
                 "gender": "female",
                 "description": "Longlima Pattiko",
                 "fid": 18,
-                "mid": null,
+                "mid": 39,
                 "pids": [null],
                 "img": "https://cdn.balkan.app/shared/w60/1.jpg"
             },
@@ -437,7 +437,7 @@ export default {
                 "name": "Sani Maya",
                 "gender": "female",
                 "fid": 18,
-                "mid": null,
+                "mid": 39,
                 "pids": [null],
                 "img": "https://cdn.balkan.app/shared/w60/1.jpg"
             },
@@ -446,7 +446,7 @@ export default {
                 "name": "Ratna Maya",
                 "gender": "female",
                 "fid": 18,
-                "mid": null,
+                "mid": 39,
                 "pids": [null],
                 "img": "https://cdn.balkan.app/shared/w60/1.jpg"
             },
